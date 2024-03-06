@@ -11,6 +11,6 @@ def insertionSort1(n, arr):
     arr[i+1] = value
     print(*arr)
 
-n = 5
-arr = [2, 4, 6, 8, 3]
+n = 14
+arr = [1, 3, 5, 9, 13, 22, 27, 35, 46, 51, 55, 83, 87,23]
 insertionSort1(n, arr)
