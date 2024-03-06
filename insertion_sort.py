@@ -11,8 +11,6 @@ def insertionSort1(n, arr):
     arr[i+1] = value
     print(*arr)
 
-
-# Example usage
 n = 5
 arr = [2, 4, 6, 8, 3]
 insertionSort1(n, arr)
